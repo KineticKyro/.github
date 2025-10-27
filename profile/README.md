@@ -6,13 +6,13 @@
 </p><br/><br/>
 
 <p align="center">
-    <div style="border:5px solid violet;margin:10px;padding:10px;border-radius:8px;width:95%;overflow:hidden">
-        <b style="font-size:25px;color:purple">Kyro</b>
-        <span style="float:left;">
+    <p style="border:5px solid violet;margin:10px;padding:10px;border-radius:8px;width:95%;overflow:hidden">
+        <p align="center" style="font-size:25px;color:purple">Kyro</p>
+        <p align="center">
             <img src="https://questioncove.com/assets/users/kyro/avatar/large?1761464844" alt="QuestionCove Kyro" width="100" style="width:80px;border-radius:8px;" />
-        </left>
-        <span style="float:right;margin-left:10px">
+        </p>
+        <p align="center">
             Meet <b>Kyro</b>, a custom externally-connecting bot made for <a href="https://questioncove.com/" target="_blank">QuestionCove</a>. The original purpose of this bot was and is to create an entertainment mechanic for QC as a means to ease the lives of students when hassles occur during school.
-        </span>
-    </div>
+        </p>
+    </p>
 </p>
