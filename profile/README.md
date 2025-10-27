@@ -1,11 +1,11 @@
 # KineticKyro
 
-<center>
+<p align="center">
     <img src="https://avatars.githubusercontent.com/u/240274863?s=48&v=4" alt="KineticKyro Logo" width="100" style="width:100px;border-radius:8px;" /> <br/>
     <b>Home of the Kyro Bot projects.</b>
-</center><br/><br/>
+</p><br/><br/>
 
-<center>
+<p align="center">
     <div style="border:5px solid violet;margin:10px;padding:10px;border-radius:8px;width:95%;overflow:hidden">
         <b style="font-size:25px;color:purple">Kyro</b>
         <span style="float:left;">
@@ -15,4 +15,4 @@
             Meet <b>Kyro</b>, a custom externally-connecting bot made for <a href="https://questioncove.com/" target="_blank">QuestionCove</a>. The original purpose of this bot was and is to create an entertainment mechanic for QC as a means to ease the lives of students when hassles occur during school.
         </span>
     </div>
-</center>
+</p>
